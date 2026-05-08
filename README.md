@@ -153,8 +153,8 @@ Each model uses GridSearchCV with parameters tuned for optimal performance on th
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/uzair-khan/ML-Project-1.git
-cd ML-Project-1
+git clone https://github.com/UzairKhan313/ml-project-1-Student-Performance-Prediction-System.git
+cd ml-project-1-Student-Performance-Prediction-System
 ```
 
 ### Step 2: Create Virtual Environment
